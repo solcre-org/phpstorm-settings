@@ -1,0 +1,9 @@
+com.alayouni.ansiHighlight
+com.andrey4623.rainbowcsv
+com.intellij.ideolog
+com.kalessil.phpStorm.phpInspectionsEA
+de.espend.idea.php.annotation
+jp.roundrop.sqlformatter
+net.seesharpsoft.intellij.plugins.csv
+org.jetbrains.plugins.rest
+ru.adelf.idea.dotenv
